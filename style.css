@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+}
+
+
+body {
+  
+  margin: 0;
+  display: flex;
+  background: black;
+  justify-content: center;
+  text-align: center;
+/*   align-items: center;
+   */
+  
+}
